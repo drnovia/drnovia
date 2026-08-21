@@ -2,26 +2,33 @@
 <tr>
 <td width="34%" align="center" valign="top">
 
-<img src="./assets/novia-dolphin-avatar.png" alt="Novia dolphin avatar" width="150" />
+<img src="https://i.ibb.co.com/hFZ6KtD0/Chat-GPT-Image-Aug-21-2026-02-14-00-PM.png" alt="dr. Novia Dwi Anggraini" width="150" />
 <br />
 <b>dr. Novia Dwi Anggraini</b><br />
 Physician · Independent Explorer
 <br /><br />
+
 <a href="https://github.com/noviaanggraini0511">
   <img src="https://img.shields.io/badge/GITHUB-NOVIAANGGRAINI0511-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+
 <br />
-<img src="https://img.shields.io/badge/CURIOUS-111111?style=flat-square" alt="Curious" />
-<img src="https://img.shields.io/badge/DETAIL--ORIENTED-404040?style=flat-square" alt="Detail-oriented" />
-<img src="https://img.shields.io/badge/GROWTH--ORIENTED-737373?style=flat-square" alt="Growth-oriented" />
+
+<img src="https://img.shields.io/badge/CURIOUS-FF6B6B?style=flat-square" alt="Curious" />
+<img src="https://img.shields.io/badge/ANALYTICAL-4D96FF?style=flat-square" alt="Analytical" />
+<img src="https://img.shields.io/badge/PRACTICAL-6BCB77?style=flat-square" alt="Practical" />
+<br />
+<img src="https://img.shields.io/badge/DETAIL--ORIENTED-845EC2?style=flat-square" alt="Detail-oriented" />
+<img src="https://img.shields.io/badge/GROWTH--ORIENTED-FF9671?style=flat-square" alt="Growth-oriented" />
 
 </td>
+
 <td width="66%" valign="top">
 
-### `NOVIA / PERSONAL SIGNAL`
+### `NOVIA STUDIO / PERSONAL SIGNAL`
 
 <a href="https://github.com/noviaanggraini0511">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=31&duration=3400&pause=1500&color=111111&vCenter=true&width=690&height=44&lines=Curious+enough+to+explore.+Practical+enough+to+finish.;I+keep+looking+until+the+details+make+sense." alt="Novia personal signal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=31&duration=3200&pause=1300&color=111111&vCenter=true&width=690&height=44&lines=Curious+enough+to+explore.+Practical+enough+to+finish.;I+keep+looking+until+the+details+make+sense.;High+standards.+Human+edges.+Always+learning." alt="Novia personal signal" />
 </a>
 
 <b>Current signal:</b> curiosity · structure · experimentation · refinement
@@ -31,7 +38,9 @@ I am naturally drawn to questions that invite a deeper look. I like understandin
 I care about quality, but I also care about usefulness. A beautiful idea that cannot be applied is still unfinished.
 
 <p>
-  <a href="https://github.com/noviaanggraini0511" title="GitHub"><img src="https://cdn.simpleicons.org/github/525252" width="22" height="22" alt="GitHub" /></a>
+  <a href="https://github.com/noviaanggraini0511" title="GitHub">
+    <img src="https://cdn.simpleicons.org/github/525252" width="22" height="22" alt="GitHub" />
+  </a>
 </p>
 
 <sub><code>CURIOSITY → UNDERSTANDING → EXPLORATION → DECISION → REFINEMENT</code></sub>
@@ -51,17 +60,81 @@ At the same time, I am practical. I prefer ideas that can become something concr
 I enjoy discovering new fields, experimenting with unfamiliar tools, and learning through direct contact with the subject rather than staying at the surface. High standards are part of how I work, but they also mean I rarely feel that something is completely finished.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CURIOUS-111111?style=flat-square" alt="Curious" />
-  <img src="https://img.shields.io/badge/ANALYTICAL-262626?style=flat-square" alt="Analytical" />
-  <img src="https://img.shields.io/badge/PRACTICAL-404040?style=flat-square" alt="Practical" />
-  <img src="https://img.shields.io/badge/ADAPTABLE-525252?style=flat-square" alt="Adaptable" />
-  <img src="https://img.shields.io/badge/INDEPENDENT-737373?style=flat-square" alt="Independent" />
-  <img src="https://img.shields.io/badge/EXPLORATIVE-A3A3A3?style=flat-square&logoColor=black" alt="Explorative" />
+  <img src="https://img.shields.io/badge/CURIOUS-FF6B6B?style=flat-square" alt="Curious" />
+  <img src="https://img.shields.io/badge/ANALYTICAL-4D96FF?style=flat-square" alt="Analytical" />
+  <img src="https://img.shields.io/badge/PRACTICAL-6BCB77?style=flat-square" alt="Practical" />
+  <img src="https://img.shields.io/badge/ADAPTABLE-00C9A7?style=flat-square" alt="Adaptable" />
+  <img src="https://img.shields.io/badge/INDEPENDENT-845EC2?style=flat-square" alt="Independent" />
+  <img src="https://img.shields.io/badge/EXPLORATIVE-FFC75F?style=flat-square" alt="Explorative" />
 </p>
 
 ---
 
-### `02 / STRENGTHS`
+### `02 / SELECTED PORTFOLIO`
+
+The work below is currently represented in my portfolio build. I am interested in projects where **clarity, visual judgment, practical thinking, and experimentation** meet.
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+#### `01 · FORMA`
+
+**Brand / Digital · 2026**
+
+A quieter identity for a design-led workspace.
+
+<img src="https://img.shields.io/badge/FOCUS-BRAND%20%2F%20DIGITAL-FF6B6B?style=flat-square" alt="Brand Digital" />
+
+</td>
+<td width="50%" valign="top">
+
+#### `02 · NOMA`
+
+**Web / Strategy · 2025**
+
+Turning a complex service into a simple path forward.
+
+<img src="https://img.shields.io/badge/FOCUS-WEB%20%2F%20STRATEGY-4D96FF?style=flat-square" alt="Web Strategy" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+#### `03 · ARC`
+
+**Product / UI · 2025**
+
+A focused product system for teams moving fast.
+
+<img src="https://img.shields.io/badge/FOCUS-PRODUCT%20%2F%20UI-6BCB77?style=flat-square" alt="Product UI" />
+
+</td>
+<td width="50%" valign="top">
+
+#### `04 · FIELD NOTES`
+
+**Editorial / Web · 2024**
+
+An editorial platform built around curiosity.
+
+<img src="https://img.shields.io/badge/FOCUS-EDITORIAL%20%2F%20WEB-845EC2?style=flat-square" alt="Editorial Web" />
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/noviaanggraini0511/novsite">
+    <img src="https://img.shields.io/badge/VIEW%20PORTFOLIO%20SOURCE-NOVSITE-111111?style=for-the-badge&logo=github&logoColor=white" alt="View Novia portfolio source" />
+  </a>
+</p>
+
+---
+
+### `03 / STRENGTHS`
 
 <table width="100%">
 <tr>
@@ -114,10 +187,10 @@ I am motivated by progress — learning something new, becoming more capable, or
 
 ---
 
-### `03 / WEAKNESSES & BLIND SPOTS`
+### `04 / WEAKNESSES & BLIND SPOTS`
 
 > [!NOTE]
-> High standards are useful until they begin to delay the point at which "good" is already good enough.
+> High standards are useful until they begin to delay the point at which **good is already good enough**.
 
 <table width="100%">
 <tr>
@@ -156,7 +229,7 @@ Exploration is one of my strengths, but too much exploration can make simple cho
 
 ---
 
-### `04 / WORK STYLE`
+### `05 / WORK STYLE`
 
 I work best when the objective is clear but the path still leaves room for judgment. I like having enough independence to investigate, organize, and improve the work rather than simply follow instructions mechanically.
 
@@ -178,9 +251,9 @@ SHIP — BEFORE PERFECTION BECOMES DELAY
 
 ---
 
-### `05 / LEARNING STYLE`
+### `06 / LEARNING STYLE`
 
-I learn through exploration more than memorization. A subject becomes interesting when I can connect the theory to something concrete, test it, compare alternatives, and understand why one approach works better than another.
+I learn through exploration more than memorization. A subject becomes interesting when I can connect theory to something concrete, test it, compare alternatives, and understand why one approach works better than another.
 
 I tend to move from broad curiosity into increasingly specific questions. Once something catches my attention, I can go surprisingly deep into the details.
 
@@ -189,27 +262,33 @@ I tend to move from broad curiosity into increasingly specific questions. Once s
 
 ```mermaid
 flowchart LR
-  Q["QUESTION"] --> E["EXPLORE"]
-  E --> U["UNDERSTAND"]
-  U --> T["TRY"]
-  T --> R["REFLECT"]
-  R --> I["IMPROVE"]
-  I -. new questions .-> Q
+    Q["QUESTION"] --> E["EXPLORE"]
+    E --> U["UNDERSTAND"]
+    U --> T["TRY"]
+    T --> R["REFLECT"]
+    R --> I["IMPROVE"]
+    I -. "new questions" .-> Q
 
-  classDef dark fill:#111111,stroke:#111111,color:#ffffff,stroke-width:1.5px;
-  classDef mid fill:#404040,stroke:#404040,color:#ffffff,stroke-width:1.5px;
-  classDef light fill:#737373,stroke:#737373,color:#ffffff,stroke-width:1.5px;
+    classDef coral fill:#FF6B6B,stroke:#C44545,color:#ffffff,stroke-width:2px;
+    classDef blue fill:#4D96FF,stroke:#2B63B8,color:#ffffff,stroke-width:2px;
+    classDef green fill:#6BCB77,stroke:#3A8A46,color:#102114,stroke-width:2px;
+    classDef teal fill:#00C9A7,stroke:#008C74,color:#06231E,stroke-width:2px;
+    classDef purple fill:#845EC2,stroke:#5E3D95,color:#ffffff,stroke-width:2px;
+    classDef gold fill:#FFC75F,stroke:#C58E18,color:#2A1D00,stroke-width:2px;
 
-  class Q,U,I dark;
-  class E,T mid;
-  class R light;
+    class Q coral;
+    class E blue;
+    class U green;
+    class T teal;
+    class R purple;
+    class I gold;
 ```
 
 </details>
 
 ---
 
-### `06 / COMMUNICATION STYLE`
+### `07 / COMMUNICATION STYLE`
 
 I prefer communication that is clear, thoughtful, and direct without being unnecessarily blunt. I appreciate enough context to understand the reasoning, but I do not enjoy complexity for its own sake.
 
@@ -226,7 +305,7 @@ I tend to ask follow-up questions when something feels incomplete or imprecise. 
 - honest feedback;
 - concrete examples;
 - well-structured information;
-- room to ask "why?".
+- room to ask **why?**
 
 </td>
 <td width="50%" valign="top">
@@ -245,17 +324,19 @@ I tend to ask follow-up questions when something feels incomplete or imprecise. 
 
 ---
 
-### `07 / DECISION-MAKING STYLE`
+### `08 / DECISION-MAKING STYLE`
 
 I usually make decisions by combining analysis with practical judgment. I like comparing the important variables, understanding trade-offs, and checking whether an option still makes sense in the real world.
 
 My risk is not impulsiveness. It is staying in analysis mode longer than necessary because I want confidence that I have not missed a better option.
 
-<sub><code>GOOD DECISION ≠ PERFECT INFORMATION</code></sub>
+<p align="center">
+  <img src="https://img.shields.io/badge/GOOD%20DECISION-%E2%89%A0%20PERFECT%20INFORMATION-111111?style=for-the-badge" alt="Good decision is not perfect information" />
+</p>
 
 ---
 
-### `08 / WHAT MOTIVATES ME`
+### `09 / WHAT MOTIVATES ME`
 
 <table width="100%">
 <tr>
@@ -288,7 +369,7 @@ My risk is not impulsiveness. It is staying in analysis mode longer than necessa
 
 ---
 
-### `09 / WHAT CHALLENGES ME`
+### `10 / WHAT CHALLENGES ME`
 
 I find it difficult to stay engaged with work that feels careless, unnecessarily repetitive, or resistant to improvement. Ambiguous expectations can also be frustrating when there is no clear way to judge whether the result is actually good.
 
@@ -299,13 +380,104 @@ The more I care about an outcome, the easier it is for me to over-invest in the 
 
 ---
 
-### `10 / ONE SENTENCE`
+### `11 / PERSONAL OPERATING SYSTEM`
+
+A simplified map of how I tend to move from curiosity to action:
+
+```mermaid
+flowchart LR
+    C["CURIOSITY"] --> A["ANALYZE"]
+    A --> X["EXPLORE"]
+    X --> M["MAKE"]
+    M --> O["OBSERVE"]
+    O --> R["REFINE"]
+    R --> S["SHIP"]
+    S -. "learn" .-> C
+
+    A -. "too much detail" .-> V["OVERTHINK"]
+    R -. "too many passes" .-> P["PERFECTIONISM"]
+    V -. "return to what matters" .-> M
+    P -. "define done" .-> S
+
+    classDef c1 fill:#FF6B6B,stroke:#C44545,color:#ffffff,stroke-width:2px;
+    classDef c2 fill:#4D96FF,stroke:#2B63B8,color:#ffffff,stroke-width:2px;
+    classDef c3 fill:#845EC2,stroke:#5E3D95,color:#ffffff,stroke-width:2px;
+    classDef c4 fill:#00C9A7,stroke:#008C74,color:#06231E,stroke-width:2px;
+    classDef c5 fill:#6BCB77,stroke:#3A8A46,color:#102114,stroke-width:2px;
+    classDef c6 fill:#FFC75F,stroke:#C58E18,color:#2A1D00,stroke-width:2px;
+    classDef c7 fill:#FF9671,stroke:#C56649,color:#32150D,stroke-width:2px;
+    classDef risk fill:#F7A8B8,stroke:#B95B70,color:#38131B,stroke-width:2px;
+
+    class C c1;
+    class A c2;
+    class X c3;
+    class M c4;
+    class O c5;
+    class R c6;
+    class S c7;
+    class V,P risk;
+```
+
+<sub><code>THE STANDARD STAYS HIGH · THE LOOP GETS SMARTER</code></sub>
+
+---
+
+### `12 / MAC TERMINAL`
+
+<table width="100%">
+<tr>
+<td>
+
+**🔴 &nbsp; 🟡 &nbsp; 🟢 &nbsp;&nbsp; `novia@macbook — zsh`**
+
+</td>
+</tr>
+<tr>
+<td>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=1750&pause=650&color=F8FAFC&background=0D1117&vCenter=true&multiline=false&repeat=true&width=820&height=44&lines=const+novia+%3D+%7B+curious%3A+true%2C+practical%3A+true+%7D%3B;novia.explore(%22new+possibilities%22)%3B;novia.refine(%7B+until%3A+%22clear+%2B+useful%22+%7D)%3B;ship(%22before+perfect+becomes+delay%22)%3B"
+  alt="Animated coding terminal for Novia"
+/>
+
+```javascript
+const novia = {
+  curious: true,
+  ambitious: true,
+  analytical: true,
+  adaptable: true,
+  standards: "high",
+  mode: "learn → test → refine"
+};
+
+while (novia.isCurious) {
+  const insight = explore();
+  const useful = makePractical(insight);
+
+  if (useful.isClear && useful.isReady) {
+    ship(useful);
+    break;
+  }
+
+  refine(useful);
+}
+```
+
+`novia@macbook ~ %` <sub>still learning, still refining.</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+### `13 / ONE SENTENCE`
 
 > **A curious, high-standard explorer who likes to understand things deeply, turn complexity into something practical, and keep refining the result — sometimes longer than necessary.**
 
 ---
 
-### `11 / PERSONAL OPERATING PRINCIPLES`
+### `14 / PERSONAL OPERATING PRINCIPLES`
 
 ```text
 Stay curious.
@@ -320,7 +492,7 @@ Know when to stop.
 
 ---
 
-### `12 / CURRENT SIGNAL`
+### `15 / CURRENT SIGNAL`
 
 <table width="100%">
 <tr>
@@ -348,5 +520,9 @@ Keeping the standards high while becoming more comfortable with iteration, imper
   <sub>Still learning. Still refining. Still asking better questions.</sub><br /><br />
   <a href="https://github.com/noviaanggraini0511">
     <img src="https://img.shields.io/badge/GITHUB-NOVIAANGGRAINI0511-111111?style=for-the-badge&logo=github&logoColor=white" alt="Novia GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/noviaanggraini0511/novsite">
+    <img src="https://img.shields.io/badge/PORTFOLIO-NOVSITE-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Novia Portfolio" />
   </a>
 </p>
