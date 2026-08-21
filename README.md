@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://imgbb.com/">
+    <img src="https://i.ibb.co.com/gZ12MM90/dolphin.png" alt="dolphin" border="0">
+  </a>
+</p>
+
+---
+
 <table width="100%">
 <tr>
 <td width="34%" align="center" valign="top">
@@ -28,7 +36,7 @@ Physician · Independent Explorer
 ### `NOVIA STUDIO / PERSONAL SIGNAL`
 
 <a href="https://github.com/noviaanggraini0511">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=31&duration=3200&pause=1300&color=111111&vCenter=true&width=690&height=44&lines=Curious+enough+to+explore.+Practical+enough+to+finish.;I+keep+looking+until+the+details+make+sense.;High+standards.+Human+edges.+Always+learning." alt="Novia personal signal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=31&duration=3200&pause=1300&color=111111&vCenter=true&width=690&height=44&lines=Curious+enough+to+explore.+Practical+e[...]
 </a>
 
 <b>Current signal:</b> curiosity · structure · experimentation · refinement
@@ -57,7 +65,7 @@ I am curious, ambitious, analytical, and strongly detail-oriented. I tend to loo
 
 At the same time, I am practical. I prefer ideas that can become something concrete — a decision, an improvement, a working solution, or simply a clearer way of seeing the problem.
 
-I enjoy discovering new fields, experimenting with unfamiliar tools, and learning through direct contact with the subject rather than staying at the surface. High standards are part of how I work, but they also mean I rarely feel that something is completely finished.
+I enjoy discovering new fields, experimenting with unfamiliar tools, and learning through direct contact with the subject rather than staying at the surface. High standards are part of how I work,[...]
 
 <p align="center">
   <img src="https://img.shields.io/badge/CURIOUS-FF6B6B?style=flat-square" alt="Curious" />
@@ -231,9 +239,9 @@ Exploration is one of my strengths, but too much exploration can make simple cho
 
 ### `05 / WORK STYLE`
 
-I work best when the objective is clear but the path still leaves room for judgment. I like having enough independence to investigate, organize, and improve the work rather than simply follow instructions mechanically.
+I work best when the objective is clear but the path still leaves room for judgment. I like having enough independence to investigate, organize, and improve the work rather than simply follow ins[...]
 
-My natural pattern is iterative: understand the problem, establish a structure, test an approach, notice what feels wrong, and refine it. I prefer progress I can see and solutions I can actually use.
+My natural pattern is iterative: understand the problem, establish a structure, test an approach, notice what feels wrong, and refine it. I prefer progress I can see and solutions I can actually [...]
 
 ```text
 UNDERSTAND THE PROBLEM
@@ -253,7 +261,7 @@ SHIP — BEFORE PERFECTION BECOMES DELAY
 
 ### `06 / LEARNING STYLE`
 
-I learn through exploration more than memorization. A subject becomes interesting when I can connect theory to something concrete, test it, compare alternatives, and understand why one approach works better than another.
+I learn through exploration more than memorization. A subject becomes interesting when I can connect theory to something concrete, test it, compare alternatives, and understand why one approach w[...]
 
 I tend to move from broad curiosity into increasingly specific questions. Once something catches my attention, I can go surprisingly deep into the details.
 
@@ -290,7 +298,7 @@ flowchart LR
 
 ### `07 / COMMUNICATION STYLE`
 
-I prefer communication that is clear, thoughtful, and direct without being unnecessarily blunt. I appreciate enough context to understand the reasoning, but I do not enjoy complexity for its own sake.
+I prefer communication that is clear, thoughtful, and direct without being unnecessarily blunt. I appreciate enough context to understand the reasoning, but I do not enjoy complexity for its own [...]
 
 I tend to ask follow-up questions when something feels incomplete or imprecise. This is usually not disagreement — it is how I build confidence that I actually understand the issue.
 
@@ -326,7 +334,7 @@ I tend to ask follow-up questions when something feels incomplete or imprecise. 
 
 ### `08 / DECISION-MAKING STYLE`
 
-I usually make decisions by combining analysis with practical judgment. I like comparing the important variables, understanding trade-offs, and checking whether an option still makes sense in the real world.
+I usually make decisions by combining analysis with practical judgment. I like comparing the important variables, understanding trade-offs, and checking whether an option still makes sense in the[...]
 
 My risk is not impulsiveness. It is staying in analysis mode longer than necessary because I want confidence that I have not missed a better option.
 
@@ -371,9 +379,9 @@ My risk is not impulsiveness. It is staying in analysis mode longer than necessa
 
 ### `10 / WHAT CHALLENGES ME`
 
-I find it difficult to stay engaged with work that feels careless, unnecessarily repetitive, or resistant to improvement. Ambiguous expectations can also be frustrating when there is no clear way to judge whether the result is actually good.
+I find it difficult to stay engaged with work that feels careless, unnecessarily repetitive, or resistant to improvement. Ambiguous expectations can also be frustrating when there is no clear way[...]
 
-The more I care about an outcome, the easier it is for me to over-invest in the details. One of my ongoing challenges is knowing when deeper exploration will improve the result — and when it is simply delaying the decision.
+The more I care about an outcome, the easier it is for me to over-invest in the details. One of my ongoing challenges is knowing when deeper exploration will improve the result — and when it is[...]
 
 > [!IMPORTANT]
 > The goal is not to lower the standard. It is to become better at knowing **which details deserve the standard**.
@@ -436,7 +444,7 @@ flowchart LR
 <td>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=1750&pause=650&color=F8FAFC&background=0D1117&vCenter=true&multiline=false&repeat=true&width=820&height=44&lines=const+novia+%3D+%7B+curious%3A+true%2C+practical%3A+true+%7D%3B;novia.explore(%22new+possibilities%22)%3B;novia.refine(%7B+until%3A+%22clear+%2B+useful%22+%7D)%3B;ship(%22before+perfect+becomes+delay%22)%3B"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=1750&pause=650&color=F8FAFC&background=0D1117&vCenter=true&multiline=false&repeat=true&width=820&heigh[...]
   alt="Animated coding terminal for Novia"
 />
 
