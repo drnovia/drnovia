@@ -1,14 +1,8 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2400&pause=900&color=22D3EE&center=true&vCenter=true&width=760&height=30&lines=Curiosity+%E2%86%92+structure+%E2%86%92+simplicity+%E2%86%92+action.;High+standards.+Clear+thinking.+Useful+outcomes.;Explore+deeply.+Reduce+carefully.+Build+what+matters." alt="Novia thinking signal" />
-</p>
-
----
-
 <table width="100%">
 <tr>
 <td width="34%" align="center" valign="top">
 
-<img src="https://i.ibb.co.com/gZ12MM90/dolphin.png" width="300" />
+<img src="https://i.ibb.co.com/gZ12MM90/dolphin.png" width="250" />
 <br />
 <b>dr. Novia Dwi Anggraini</b><br />
 Physician · Sentra Principal Architect<br />
