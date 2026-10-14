@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 55" width="440" height="55" role="img" aria-label="Soft lavender and rose flowing botanical divider">
+  <path d="M7 29 C68 8 111 40 172 26" fill="none" stroke="#E5BACC" stroke-width="2.4" stroke-linecap="round"/>
+  <path d="M266 28 C325 12 374 44 433 25" fill="none" stroke="#CDB7E9" stroke-width="2.4" stroke-linecap="round"/>
+  <path d="M218 29 C192 8 204 -5 222 10 C241 -5 252 11 226 29 L222 34 Z" fill="#EABFD1"/>
+  <path d="M222 31 C206 18 188 23 199 38 C207 46 220 41 222 31 Z" fill="#DAC6F0"/>
+  <path d="M222 31 C239 17 257 22 245 38 C235 47 222 41 222 31 Z" fill="#CFAFE2"/>
+  <circle cx="177" cy="25" r="3" fill="#DAB5CD"/>
+  <circle cx="261" cy="27" r="3" fill="#C9B5DE"/>
+</svg>
