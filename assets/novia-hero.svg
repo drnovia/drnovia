@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 450" width="1200" height="450" role="img" aria-labelledby="title desc">
+  <title id="title">Novia — a softer kind of precision</title>
+  <desc id="desc">An airy blush and lavender editorial banner with flowing botanical curves, introducing Dr Novia Dwi Anggraini, physician and Sentra Principal Architect.</desc>
+  <defs>
+    <linearGradient id="wash" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFF5F6"/>
+      <stop offset=".55" stop-color="#FCF4FD"/>
+      <stop offset="1" stop-color="#F0EAFC"/>
+    </linearGradient>
+    <linearGradient id="petal" x1="0" y1="0" x2=".9" y2="1">
+      <stop offset="0" stop-color="#F2C2D4"/>
+      <stop offset="1" stop-color="#D6C2F4"/>
+    </linearGradient>
+    <linearGradient id="ribbon" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E9AAC9"/>
+      <stop offset="1" stop-color="#B99DE2"/>
+    </linearGradient>
+  </defs>
+
+  <!-- A watercolor-like contour: deliberately not a box or a card. -->
+  <path d="M72 81 C152 13 279 34 397 34 C527 35 576 10 686 28 C818 49 913 6 1022 41 C1115 71 1166 140 1165 223 C1164 319 1103 369 992 394 C863 424 797 405 666 419 C512 438 397 402 283 410 C147 421 67 359 48 267 C33 193 22 129 72 81 Z" fill="url(#wash)"/>
+  <path d="M93 79 C216 20 365 67 496 50" fill="none" stroke="#F2D8E5" stroke-width="3" stroke-linecap="round" opacity=".7"/>
+  <path d="M735 395 C885 371 1007 426 1101 342" fill="none" stroke="#E9CDDE" stroke-width="3" stroke-linecap="round" opacity=".7"/>
+
+  <!-- Abstract fabric petals / soft organic shapes -->
+  <path d="M989 96 C1131 73 1164 158 1104 222 C1051 278 973 254 943 199 C902 127 932 103 989 96 Z" fill="url(#petal)" opacity=".56"/>
+  <path d="M984 145 C1097 111 1119 201 1078 277 C1038 349 953 353 907 302 C850 241 910 162 984 145 Z" fill="#EFCDDD" opacity=".72"/>
+  <path d="M887 102 C977 53 1059 117 1038 211 C1017 306 920 291 872 240 C827 192 843 126 887 102 Z" fill="#E6D8F7" opacity=".60"/>
+  <path d="M928 143 C999 110 1054 148 1057 217 C1060 285 1010 320 952 300 C887 279 857 177 928 143 Z" fill="none" stroke="#B77CA5" stroke-width="2.4" opacity=".65"/>
+  <path d="M910 278 C958 229 1013 179 1030 133" fill="none" stroke="#AA7DAA" stroke-width="2.4" stroke-linecap="round"/>
+  <path d="M942 243 C905 230 888 208 878 177" fill="none" stroke="#AA7DAA" stroke-width="2" stroke-linecap="round"/>
+  <path d="M980 210 C1003 217 1036 213 1072 181" fill="none" stroke="#AA7DAA" stroke-width="2" stroke-linecap="round"/>
+  <path d="M1010 164 C1046 164 1061 142 1078 117" fill="none" stroke="#AA7DAA" stroke-width="2" stroke-linecap="round"/>
+  <path d="M935 283 C956 322 970 337 996 354" fill="none" stroke="#AA7DAA" stroke-width="2" stroke-linecap="round"/>
+  <path d="M1046 256 C1086 258 1109 241 1123 213" fill="none" stroke="#AA7DAA" stroke-width="2" stroke-linecap="round"/>
+  <!-- airy sparkles -->
+  <g stroke="#C388A9" fill="none" stroke-width="2" stroke-linecap="round">
+    <path d="M780 97 v28 M766 111 h28"/>
+    <path d="M1110 311 v23 M1099 322 h22"/>
+    <path d="M850 348 v17 M842 356 h16"/>
+  </g>
+  <g fill="#D9A7C4">
+    <circle cx="802" cy="81" r="4"/>
+    <circle cx="1132" cy="142" r="5"/>
+    <circle cx="826" cy="286" r="3"/>
+    <circle cx="1093" cy="366" r="3"/>
+  </g>
+
+  <!-- Editorial lettering -->
+  <text x="112" y="116" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="28" fill="#A66B91">hello, lovely world.</text>
+  <text x="99" y="230" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="117" letter-spacing="-6" fill="#7A486D">Novia<tspan fill="#BE87A9">.</tspan></text>
+  <text x="112" y="279" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="600" letter-spacing="5" fill="#875C80">DWI ANGGRAINI</text>
+  <path d="M112 298 C257 294 411 307 553 295" stroke="#D39CBC" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+  <text x="113" y="339" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#6D5972">Physician  ·  Sentra Principal Architect</text>
+  <text x="113" y="372" font-family="Georgia, 'Times New Roman', serif" font-size="21" font-style="italic" fill="#916D88">Curious by nature. Thoughtful by design.</text>
+</svg>
