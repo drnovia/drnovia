@@ -10,10 +10,6 @@
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co.com/gZ12MM90/dolphin.png" alt="Novia's original dolphin illustration" width="155" />
-</p>
-
-<p align="center">
   <em>Curious enough to explore. Practical enough to simplify.</em>
 </p>
 
